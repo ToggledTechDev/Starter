@@ -1,9 +1,9 @@
-# Welcome to Toggled 
+---
+name: Thank you
+---
 
-Thanks for choosing Toggled  to make your site. We know there are a lot of choices so it means a lot!
+# Thank you For Using Toggled
 
-Toggled  provides a simple yet effective way to create websites.
+<p>Hello</p>
 
-MarkdownX allows you the ease of Markdown plus the tech of HTML.
-
-Find more info about Toggled  on the [homepage](https://toggled.tech).
+<button>Test</button>
